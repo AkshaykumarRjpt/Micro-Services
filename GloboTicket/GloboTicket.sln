@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontends", "Frontends", "{6CD3D58A-5A78-4283-99FD-D140E05206A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.WebClient", "GloboTicket.WebClient\GloboTicket.WebClient.csproj", "{1A68E367-5FEE-4D63-87C1-CF4C9A09BB5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A68E367-5FEE-4D63-87C1-CF4C9A09BB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A68E367-5FEE-4D63-87C1-CF4C9A09BB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A68E367-5FEE-4D63-87C1-CF4C9A09BB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A68E367-5FEE-4D63-87C1-CF4C9A09BB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1A68E367-5FEE-4D63-87C1-CF4C9A09BB5F} = {6CD3D58A-5A78-4283-99FD-D140E05206A6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D2DFF6-2EAD-41C1-9817-BE377362BAB7}
+	EndGlobalSection
+EndGlobal
